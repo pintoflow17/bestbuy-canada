@@ -1,4 +1,4 @@
-# BestBuy Canada API Documentation
+# BestBuy Canada API Documentation (Unofficial)
 
 ## Getting Started
 
@@ -307,3 +307,6 @@ Log into your BestBuy account, go to the “Order Status” page, and enter your
 Yes, BestBuy has a recycling program where customers can responsibly dispose of old electronics. Some items may even qualify for trade-in credit.
 
 ---
+
+## Note
+- We don't have any affiliation with bestbuy canada, this api is not official.
